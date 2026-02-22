@@ -1,9 +1,10 @@
 ## Olá, Eu sou o Matheus Ferreira!🙌
 
 - ☕ Desenvolvedor Back-End com foco em Java.
-- <div>
+ <div>
      <img align="right" alt="GIF" height = "200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmprYjdiMG5veTVwY2RxdDQyNm1pNWhidnV3NzZqYzV3a3BmNXN5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif">
   </div>
+
 ## 
 
 <div style="display: inline_block"><br>
