@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td align="center" width="40%">
-        <img src="" width="280px" alt="Foto ASCII / Perfil" />
+        <img src="ascii-art-2026-10-09-14-15-03.png" width="280px" alt="Foto ASCII / Perfil" />
       </td>
       <td align="left" valign="middle" width="60%">
         <h3>Olá, Eu sou o Matheus Ferreira! 👋</h3>
