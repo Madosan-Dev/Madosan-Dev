@@ -1,15 +1,29 @@
-## Olá, Eu sou o Matheus Ferreira!🙌
-
-- ☕ Tenho 18 anos e faço Analise e Desenvolvimento de Sistemas na SPTech
-  
-
-## 
-
-<div style="display: inline_block;"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="40%">
+        <img src="" width="280px" alt="Foto ASCII / Perfil" />
+      </td>
+      <td align="left" valign="middle" width="60%">
+        <h3>Olá, Eu sou o Matheus Ferreira! 👋</h3>
+        <ul>
+          <li>☕ Tenho 18 anos e faço Análise e Desenvolvimento de Sistemas na SPTech</li>
+        </ul>
+        <h3>Stack</h3>
+        <p>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="PHP" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
