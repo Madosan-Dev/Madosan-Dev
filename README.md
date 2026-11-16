@@ -2,7 +2,14 @@
   <table>
     <tr>
       <td align="center" width="40%">
-        <img src="ascii-art-2026-10-09-14-15-03.png" width="280px" alt="Foto ASCII / Perfil" />
+        <img src="ascii-art-2026-10-09-14-15-03.png" width="400px"" alt="Foto ASCII / Perfil" />
+        <br /><br />
+        <div align="left">
+          <code>📍 São Paulo, Brazil</code><br />
+          <code>🎓 ADS @ SPTech</code><br />
+          <code>🌐 PT (Native) | EN (Working) | JP (Basic)</code><br />
+          <code>⚡ Focus: Backend & AI Agents</code>
+        </div>
       </td>
       <td width="62%" valign="top">
       <h2>Hi, I'm Matheus Ferreira! 👋</h2>
